@@ -1,0 +1,6 @@
+@ParcialOrderApi_HostAddress = http://localhost:5160
+
+GET {{ParcialOrderApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

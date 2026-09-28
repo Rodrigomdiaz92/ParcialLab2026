@@ -1,0 +1,22 @@
+<Solution>
+  <Folder Name="/Microservicios/" />
+  <Folder Name="/Microservicios/Customer/">
+    <Project Path="ParcialCustomer.Application/ParcialCustomer.Application.csproj" Id="4736d64d-3472-4992-b5a1-9d797e49fa5f" />
+    <Project Path="ParcialCustomer.Domain/ParcialCustomer.Domain.csproj" Id="a769b38b-e3e6-4c91-833f-93c96c84af58" />
+    <Project Path="ParcialCustomer.Infraestructure/ParcialCustomer.Infraestructure.csproj" Id="8cdcf441-b6da-412c-939f-ebffc0bf2fb2" />
+    <Project Path="ParcialCustomerApi/ParcialCustomerApi.csproj" />
+  </Folder>
+  <Folder Name="/Microservicios/Order/">
+    <Project Path="ParcialOrder.Application/ParcialOrder.Application.csproj" Id="f37a18b6-3baf-439a-bcd3-365a7113b5a9" />
+    <Project Path="ParcialOrder.Domain/ParcialOrder.Domain.csproj" Id="31c6f9ee-47ae-4bd7-a220-9ab7b5bf1e2f" />
+    <Project Path="ParcialOrder.Infraestructure/ParcialOrder.Infraestructure.csproj" Id="40542bb8-c5cf-4074-8ff3-ab74dad5fe64" />
+    <Project Path="ParcialOrderApi/ParcialOrderApi.csproj" />
+  </Folder>
+  <Folder Name="/Microservicios/Product/">
+    <Project Path="ParcialProduct.Application/ParcialProduct.Application.csproj" Id="07b54fb1-7689-482b-9352-157b78772e08" />
+    <Project Path="ParcialProduct.Domain/ParcialProduct.Domain.csproj" Id="f7886b2d-013a-41ea-88ee-222f146a9b0e" />
+    <Project Path="ParcialProduct.Infraestructure/ParcialProduct.Infraestructure.csproj" Id="136b2d76-4cb8-4437-adfd-a59ce16c5bfa" />
+    <Project Path="ParcialProductAPI/ParcialProductAPI.csproj" />
+  </Folder>
+  <Folder Name="/Web/" />
+</Solution>
